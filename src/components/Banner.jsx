@@ -38,7 +38,7 @@ const Banner = () => {
             {/* LEFT CONTENT */}
             <div className='w-full lg:flex-1 text-center lg:text-left'>
                 <h3 className='text-lg mt-5 md:text-xl font-bold font-Comfortaa text-gray-600 mb-2 md:mb-3'>
-                    Ma Ka loda Restaurant
+                    Ma Ka ladla Restaurant
                 </h3>
                 <h1 className='text-3xl sm:text-4xl md:text-5xl lg:text-7xl xl:text-6xl font-pacifico animate-slide-up
                 font-extrabold leading-tight mb-4'>
