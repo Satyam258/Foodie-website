@@ -63,7 +63,7 @@ const Wts = () => {
                                     
                                     <div>
                                         <h4 className='font-bold text-sm sm:text-base md:text-lg lg:text-xl text-gray-800'>
-                                            John Madarchod
+                                            John potter
                                         </h4>
                                         <p className='text-xs sm:text-sm md:text-base lg:text-lg text-gray-600'>
                                             Food Enthusiast
